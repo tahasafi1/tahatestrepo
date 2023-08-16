@@ -1,0 +1,17 @@
+!#/bin/bash
+
+#This is code I want to write just for fun so I can push to my GitHub for testing
+
+
+read -p "Do you like black color more or red?" color
+
+if ["$color" == red] then
+    echo "awesome"
+if ["$color == black] then
+    echo "cool"
+else
+    echo "type something"
+fi
+
+
+#end of simple code
